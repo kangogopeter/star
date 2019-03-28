@@ -1,0 +1,65 @@
+
+html{
+ background-color: lightblue;
+ background-image: url(/home/peter/Documents/star/image/cicko.jpg);
+ }
+
+
+ img{
+  border-radius: 879px;
+}
+
+
+li{
+  color: red;
+}
+
+p{
+  color: greenyellow;
+  text-align: end;
+  font-kerning: auto;
+  font-style: italic;
+}
+
+h1{
+  color: darkcyan;
+  text-align: center;
+  font-size: 55px;
+}
+
+h3{
+  color: palegreen;
+  font-style: italic;
+  font-family: cursive;
+  text-align: center;
+}
+
+#paf{
+  color:rgb(172, 179, 85);
+  font-size: 40px;
+  text-decoration-line: underline;
+  font-family: fantasy;
+  font-style: italic;
+  text-align: left;
+}
+
+.container{
+  color: blanchedalmond;
+  text-align: center;
+  font-size: 30px;
+}
+
+u{
+  color: lightcoral;
+}
+
+#bike{
+  font-size: 15px; 
+  color: yellow;
+  font-style: italic;
+}
+.car{
+  font-size: 20px;
+color: beige;
+font-family: cursive;
+}

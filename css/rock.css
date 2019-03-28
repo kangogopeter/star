@@ -1,0 +1,23 @@
+html{
+    background-image: url(/home/peter/Documents/star/image/skull.jpg);
+}
+u{
+  color: blue;
+}
+p{
+  border-color: hotpink;
+}
+p{
+  color: greenyellow;
+}
+video{
+  background-image: url(/home/peter/Documents/star/image/nature.jpg);
+}
+.container{
+  text-align: center;
+  font-size: 20px;
+  font-family: cursive;
+}
+video{
+  border-radius: 589px;
+}

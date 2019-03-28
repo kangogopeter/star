@@ -1,0 +1,23 @@
+html{
+  background-color: lightgreen;
+  background-image: url(/home/peter/Documents/star/image/wall.jpg);
+}
+p{
+  color: blue;
+  text-decoration: none;
+  font-size: 14px;
+}
+h1{
+  color: darkyellow;
+}
+hr{
+  color: orange;
+  line-height: normal;
+}
+u{
+ color: darkgreen;
+}
+
+h6{
+  font-size: 15px;
+}
